@@ -1,0 +1,22 @@
+{
+  "name": "simple-form-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthewnte/simple-form-NodeJs.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Matthew Nte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Matthewnte/simple-form-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Matthewnte/simple-form-NodeJs#readme"
+}
